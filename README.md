@@ -3,9 +3,7 @@
      Author: Asrar Reyaz
 ============================ -->
 
-<p align="center">
-  <img src="image.png" alt="Asrar Reyaz Banner" width="100%">
-</p>
+![Banner](image.png)
 
 <h1 align="center">
 Hi 👋 I'm Asrar Reyaz
