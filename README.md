@@ -1,61 +1,73 @@
-```md
-# Hi 👋, I'm Asrar Reyaz
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Web+Designer;Gaming+Content+Creator;Always+Learning+New+Things!" />
+<!-- ===========================
+     GITHUB PROFILE README
+     Author: Asrar Reyaz
+============================ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="image.png" alt="Asrar Reyaz Banner" width="100%">
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Asrar Reyaz
+</h1>
+
+<h3 align="center">
+💻 Frontend Developer • 🎓 Student • 🚀 Passionate Learner
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript;Open+Source+Learner;Building+Amazing+Websites;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=asrarreyaz&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/asrarreyaz?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/asrarreyaz?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 👨‍💻 Name: **Asrar Reyaz**
-- 🌍 Country: India
+- 👨‍💻 Name **Asrar Reyaz**
 - 🎓 Student
+- 🌍 India
 - 💻 Frontend Web Developer
+- 🌱 Currently learning **JavaScript**
+- 🎯 Goal: Become a Full Stack Developer
+- ❤️ Love building modern websites
 - 🎮 Gaming Content Creator
-- 🌱 Currently Learning JavaScript
-- ⚡ Love Building Beautiful Websites
 
 ---
 
-# 🛠 Languages & Tools
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-<img src="https://skillicons.dev/icons?i=js" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=figma" height="60"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=asrarreyaz&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asrarreyaz&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophy
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&margin-w=10"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarreyaz&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -64,54 +76,42 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarreyaz&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<a href="https://github.com/asrarreyaz">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord" height="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=asrarreyaz&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-# 💻 Quote
+# 📚 Currently Learning
 
-> "Code. Learn. Build. Repeat."
+```text
+██████████░░░░░░  HTML        95%
+█████████░░░░░░░  CSS         90%
+███████░░░░░░░░░  JavaScript  70%
+█████░░░░░░░░░░░  Git/GitHub  60%
+
+---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://github.com/asrarreyaz">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a></p>---
+
+✨ Quote
+
+«"Dream Big • Code Daily • Never Stop Learning."»
 
 ---
 
 <p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,100:92FE9D&section=footer"/>
 </p>
 ```
