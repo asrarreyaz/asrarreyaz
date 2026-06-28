@@ -31,7 +31,7 @@ Hi 👋 I'm Asrar Reyaz
 - 🎓 Student
 - 🌍 India
 - 💻 Frontend Web Developer
-- 🌱 Currently learning **JavaScript**
+- 🌱 Currently learning **HTML , CSS , JAVASCRIPT**
 - 🎯 Goal: Become a Full Stack Developer
 - ❤️ Love building modern websites
 - 🎮 Gaming Content Creator
@@ -78,12 +78,3 @@ Hi 👋 I'm Asrar Reyaz
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asrarreyaz&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
