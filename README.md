@@ -89,29 +89,3 @@ Hi 👋 I'm Asrar Reyaz
 
 ---
 
-# 📚 Currently Learning
-
-```text
-██████████░░░░░░  HTML        95%
-█████████░░░░░░░  CSS         90%
-███████░░░░░░░░░  JavaScript  70%
-█████░░░░░░░░░░░  Git/GitHub  60%
-
----
-
-🌐 Connect With Me
-
-<p align="center"><a href="https://github.com/asrarreyaz">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a></p>---
-
-✨ Quote
-
-«"Dream Big • Code Daily • Never Stop Learning."»
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,100:92FE9D&section=footer"/>
-</p>
-```
